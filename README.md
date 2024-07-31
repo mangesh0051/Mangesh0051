@@ -1,3 +1,4 @@
+![logo](https://github.com/mangesh0051/Mangesh0051/blob/main/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 <h1 align="center">Hi 👋, I'm Mangesh P Kadam</h1>
 <h3 align="center">Data Scientist | Data Analyst</h3>
 
